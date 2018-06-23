@@ -16,7 +16,7 @@
                                            * Other screens always of the game
                                                        
 <p align="center">
-<img src="https://i.imgur.com/EtCpVdp.png" alt="Banner" />
+<img src="https://i.imgur.com/cKomAtJ.png" alt="Banner" />
 </p>
 
                                    * When the portal to go to the next level is locked...
