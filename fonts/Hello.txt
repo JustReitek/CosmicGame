@@ -1,2 +1,2 @@
-Leave this folder (you can remove this file) 
-because there aren't "fonts" folder the game may not start
+Don't touch this folder (you can remove this file) 
+because if there isn't "fonts" folder the game may not start
