@@ -10,7 +10,7 @@
                                            * Other screens always of the game
                                                       
 <p align="center">
-<img src="https://i.imgur.com/86C0bvi.png" alt="Banner" />
+<img src="https://i.imgur.com/E0p4Tt9.png" alt="Banner" />
 </p>
 
                                            * Other screens always of the game
