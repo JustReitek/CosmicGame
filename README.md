@@ -7,13 +7,13 @@
 <img src="https://i.imgur.com/qbvC4fb.png" alt="Screen" />
 </p>
 
-                                           * When you jump...
+                                           *       When you jump...
                                                       
 <p align="center">
 <img src="https://i.imgur.com/5w2yKXr.png" alt="Screen" />
 </p>
 
-                                           * When you join the game
+                                           *     When you join the game
                                                        
 <p align="center">
 <img src="https://i.imgur.com/cKomAtJ.png" alt="Screen" />
@@ -31,11 +31,14 @@
 <img src="https://i.imgur.com/x7pJw1F.png" alt="Screen" />
 </p>
 
-                                  * Screen of the level number 2
+                                  *    Screen of the level number 2
                                                    
 <p align="center">
 <img src="https://i.imgur.com/X8QooM2.png" alt="Screen" />
 </p>
+
+
+
 
 
 **A special thanks to YourN3me for making the graphics on the main page!**
