@@ -28,7 +28,7 @@
                                   * When the portal to go to the next level is open...
                                                    
 <p align="center">
-<img src="https://i.imgur.com/cxyDqSa.png" alt="Banner" />
+<img src="https://i.imgur.com/x7pJw1F.png" alt="Banner" />
 </p>
 
 
