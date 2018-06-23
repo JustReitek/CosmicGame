@@ -4,31 +4,37 @@
 
                                            * The main page of the MiniGame
 <p align="center">
-<img src="https://i.imgur.com/qbvC4fb.png" alt="Banner" />
+<img src="https://i.imgur.com/qbvC4fb.png" alt="Screen" />
 </p>
 
-                                           * Other screens always of the game
+                                           * When you jump...
                                                       
 <p align="center">
-<img src="https://i.imgur.com/5w2yKXr.png" alt="Banner" />
+<img src="https://i.imgur.com/5w2yKXr.png" alt="Screen" />
 </p>
 
-                                           * Other screens always of the game
+                                           * When you join the game
                                                        
 <p align="center">
-<img src="https://i.imgur.com/cKomAtJ.png" alt="Banner" />
+<img src="https://i.imgur.com/cKomAtJ.png" alt="Screen" />
 </p>
 
                                    * When the portal to go to the next level is locked...
                                                    
 <p align="center">
-<img src="https://i.imgur.com/JKTof7B.png" alt="Banner" />
+<img src="https://i.imgur.com/JKTof7B.png" alt="Screen" />
 </p>
 
                                   * When the portal to go to the next level is open...
                                                    
 <p align="center">
-<img src="https://i.imgur.com/x7pJw1F.png" alt="Banner" />
+<img src="https://i.imgur.com/x7pJw1F.png" alt="Screen" />
+</p>
+
+                                  * Screen of the level number 2
+                                                   
+<p align="center">
+<img src="https://i.imgur.com/X8QooM2.png" alt="Screen" />
 </p>
 
 
