@@ -4,7 +4,7 @@
 
                                            * The main page of the MiniGame
 <p align="center">
-<img src="https://imgur.com/E0p4Tt9" alt="Banner" />
+<img src="https://i.imgur.com/qbvC4fb.png" alt="Banner" />
 </p>
 
                                            * Other screens always of the game
