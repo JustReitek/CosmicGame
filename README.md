@@ -1,6 +1,9 @@
 # CosmicGame
 ## Made by @Reitek.If you find bugs, please contact me on telegram! Telegram: @Reitek
 
+## ATTENTION ** If you get killed by the entities press "R" to restart the game!
+
+
                                            * The main page of the MiniGame
 <p align="center">
 <img src="https://i.imgur.com/qbvC4fb.png" alt="Screen" />
