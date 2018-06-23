@@ -22,7 +22,7 @@
                                    * When the portal to go to the next level is locked...
                                                    
 <p align="center">
-<img src="https://i.imgur.com/PIGO5pN.png" alt="Banner" />
+<img src="https://i.imgur.com/JKTof7B.png" alt="Banner" />
 </p>
 
                                   * When the portal to go to the next level is open...
