@@ -1,4 +1,4 @@
-# CosmicGame
+#                                                   CosmicGame
 
 ## Made by @Reitek.If you find bugs, please contact me on telegram! Telegram: @Reitek
 
@@ -10,7 +10,7 @@
                                                    * When you jump...
                                                       
 <p align="center">
-<img src="https://i.imgur.com/5w2yKXr.png" alt="Screen" />
+<img src="https://i.imgur.com/Xy7LshL.png" alt="Screen" />
 </p>
 
                                                  * When you join the game
